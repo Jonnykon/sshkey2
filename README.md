@@ -9,5 +9,9 @@ And i am currently under full-stack training.
 selikikon@somthing.com
 #github url:
 https//github.com 
+#LinkedIn Page:
+selik"kone.something.com
 #youtube chennel:
-kone@teckeasylearn
+selik@teckeasylearn
+ok
+
