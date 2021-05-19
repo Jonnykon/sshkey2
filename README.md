@@ -8,3 +8,8 @@ I did my Qa Automation course at real-time college.
 selikikon@somthing.com
 #github url:
 https//github.com 
+#LinkedIn Page:
+selik"kone.something.com
+#youtube chennel:
+selik@teckeasylearn
+ok
