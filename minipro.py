@@ -5,11 +5,11 @@ lname = input('what is you last last name?')
 print(lname + 'Thanks!')
 
 def addi_tion():
-    pass
+      return 1+1
 
 
 def sub_tration():
-    pass
+    return 2+2
 
 def mult_iplication():
     pass
