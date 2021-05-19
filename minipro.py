@@ -1,7 +1,7 @@
-name = input('what is you name?')
+name = input('please, what is your name?')
 print(name + 'Hello World')
 
-lname = input('what is you last last name?')
+lname = input('please, what is you last last name?')
 print(lname + 'Thanks!')
 
 def addi_tion():
