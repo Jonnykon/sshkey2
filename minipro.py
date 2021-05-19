@@ -1,8 +1,8 @@
-name = input('what is you name?')
+first_name = input('what is you name?')
 print(name + 'Hello World')
 
-lname = input('what is you last last name?')
-print(lname + 'Thanks!')
+last_name = input('what is you last name?')
+print( 'Thanks!')
 
 def addi_tion():
     return 4+5
